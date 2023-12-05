@@ -1,6 +1,6 @@
 {
   "name": "number-to-words-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A libray to return word by a given number",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
