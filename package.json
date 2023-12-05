@@ -13,14 +13,17 @@
     "url": "git@github.com:shadid06/number-to-word-npm.git"
   },
   "keywords": [
-    "numer to word"
+    "number to word",
+    "react number to word",
+    "node number to word",
+    "number to word js"
   ],
   "author": "Shamim hasnain <hasnain.cse01@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shadid06/number-to-word-npm/issues"
-  },
-  "homepage": "https://github.com/shadid06/number-to-word-npm/issues#readme",
+ 
+    "bugs": "https://github.com/shadid06/number-to-word-npm/issues",
+  
+  "homepage": "https://github.com/shadid06/number-to-word-npm#readme",
   "devDependencies": {
     "typescript": "^5.3.2"
   },
